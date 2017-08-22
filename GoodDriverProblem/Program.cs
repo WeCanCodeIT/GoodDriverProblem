@@ -11,8 +11,7 @@ namespace GoodDriverProblem
     {
         static void Main(string[] args)
         {
-            StreamReader record = new StreamReader("DrivingRecord.txt");
-            Console.WriteLine(record.ReadToEnd());
+            
 
         }
     }
